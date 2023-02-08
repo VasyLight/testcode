@@ -1,6 +1,5 @@
 <?php
 
-$allIdsFromCsv = [];
 $headers = [];
 // Create a new dom document
 $doc = new DOMDocument;
